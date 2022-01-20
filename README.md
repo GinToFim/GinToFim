@@ -3,8 +3,7 @@
 ### 💪 Skills
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=shlf6673)](https://solved.ac/shlf6673)
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shlf6673)](https://solved.ac/shlf6673)
 
 <!--
 **GinToFim/GinToFim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
