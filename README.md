@@ -2,6 +2,9 @@
 
 ### 💪 Skills
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 <!--
 **GinToFim/GinToFim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- references : https://github.com/cowkite
+- references 
+  https://github.com/cowkite
+  http://blog.cowkite.com/blog/2102241544/
+  
+
 
 -->
