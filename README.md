@@ -2,7 +2,7 @@
 
 ### 🎓 Education / Experiences
 
-- Gachon Univ. Computer Engineering , 2017.03 ~ 2024.02 (Expected graduation date)
+- Gachon Univ. Dept of Computer Engineering , 2017.03 ~ 2024.02 (Expected graduation date)
 
 - Naver Boostcamp AI Tech 4th, Natural Language Processing ('22.09 ~ '23.02)
 
