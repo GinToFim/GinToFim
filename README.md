@@ -6,6 +6,7 @@
 
 - Naver Boostcamp AI Tech 4th, Natural Language Processing ('22.09 ~ '23.02)
 
+
 ### 📨 Contact
 
 - Email  | shlf6673@naver.com
@@ -18,18 +19,36 @@
 
 ### 🎯 Interest
 
-- Image Captioning, Anomaly Detection
+- Data Engineering, Data Visualization
 
-- Machine Learning, Deep Learning, Natural Language Processing, MLOps
+- Machine Learning, Deep Learning, Natural Language Processing
 
-### 🛠 Skills
+---
+
+### 🛠️	Stacks
+
+#### 📃 Language
 <p>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+#### 📚 Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logo=Tansformer&logoColor=white">
+  <img src="https://img.shields.io/badge/weights&biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white">  
+</p>
+
+#### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 <br>
 
