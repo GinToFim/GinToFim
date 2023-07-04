@@ -1,4 +1,4 @@
-## 🙋‍♂️ Introduce
+## 🙋‍♂ Introduce
 
 ### 🎓 Education / Experiences
 
