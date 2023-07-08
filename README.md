@@ -9,7 +9,7 @@
 
 ### 📨 Contact
 
-- Email  | shlf6673@naver.com
+- Email  | shlf6673@gmail.com
 
 <!-- CV     | [Curriculum Vitae](https://obtainable-turnover-bef.notion.site/Ryu-Jongmoon-df7118b559544bda93aca3070b6dbcff) -->
 
