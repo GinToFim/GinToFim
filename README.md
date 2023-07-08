@@ -15,7 +15,7 @@
 
 ### 🖥️ Channel
 
-- Blog : [Tistory: GinToFim](https://gintofim.tistory.com/)
+- Blog | [Tistory: GinToFim](https://gintofim.tistory.com/)
 
 ### 🎯 Interest
 
