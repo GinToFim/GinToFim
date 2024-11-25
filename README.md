@@ -6,7 +6,7 @@
 
 - NAVER Connect Foundation. Boostcamp AI Tech 4th NLP, 2022.09 ~ 2023.02
 
-- Bookbla. Backend Engineer, 2023.12 ~ 2024.10
+- BookBLA. Backend Engineer, 2023.12 ~ 2024.10
 
 
 ### 📨 Contact
