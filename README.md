@@ -6,7 +6,7 @@
 
 ### 🎓 Education / Experiences
 
-- Gachon Univ. Dept of Computer Engineering, 2017.03 ~ 2024.02
+- Gachon Univ. Dept of Computer Engineering, 2017.03 ~ 2024.02 (GPA: 4.2/4.5)
 
 - NAVER Connect Foundation. Boostcamp AI Tech 4th NLP, 2022.09 ~ 2023.02
 
