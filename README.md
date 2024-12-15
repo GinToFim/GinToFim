@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GinToFim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello,%20have%20a%20good%20day!&descAlignY=51&descAlign=62"/>
+</p>
+
 ## 🙋‍♂ Introduce
 
 ### 🎓 Education / Experiences
