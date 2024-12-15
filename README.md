@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GinToFim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello,%20have%20a%20good%20day!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3f66da&height=300&section=header&text=GinToFim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello,%20have%20a%20good%20day!&descAlignY=51&descAlign=62"/>
 </p>
 
 ## 🙋‍♂ Introduce
@@ -31,12 +31,21 @@
 
 ---
 
-### 🛠️	Stacks
+### 🛠️	Tech Stacks
 
 #### 📃 Language
 <p>
+  <img src="https://img.shields.io/badge/Java-c16b00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+#### 🚀 Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 </p>
 
 #### 📚 Libraries
